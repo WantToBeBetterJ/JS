@@ -1,0 +1,30 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.photos{
+	margin: 200px auto;
+	margin-bottom: 0px;
+	background: pink;
+	height:411px;
+	width: 460px;
+}
+.photo{
+	position: absolute;
+	margin: auto;
+	top:200px;
+}
+.button{
+	width:460px;
+	margin: 0 auto;
+	font-size: 20px;
+}
+.previous{
+	float: left;
+}
+.next{
+	float: right;
+}
+body{
+	overflow: hidden;
+}
