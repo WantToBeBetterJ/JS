@@ -1,0 +1,30 @@
+.body-bg{
+	background: url(../images/body-bg.jpg) repeat-x;
+
+}
+.photo{
+	float: left;
+	padding: 10px;
+	margin: 10px;
+	width: 100px;
+	border: 1px solid black;
+	background: #fff;
+}
+.photos{
+	overflow: auto;
+}
+img{
+	
+}
+.innerPhoto{
+	height: 100px;
+	width: 100px;
+	overflow: hidden;
+}
+.more{
+	margin-top: 10px;
+	margin-left: 6px;
+}
+.close{
+	float: right;
+}
